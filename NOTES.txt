@@ -1,0 +1,1 @@
+Objetivo: incluir este arquivo de texto no controle de versões do GitHub
